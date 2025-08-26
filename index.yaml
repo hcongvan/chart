@@ -3,12 +3,9 @@ entries:
   prd-cmc:
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2025-08-26T14:52:08.064755+07:00"
     description: A Helm chart for prd-cmc application
-    digest: 66c1a0019b5498e63e1c1c0fb63ad1933b058fb5345b0e33bc24c9ec3b0d2a11
     name: prd-cmc
     type: application
     urls:
-    - prd-cmc-0.1.0.tgz
+    - deployment-chart/
     version: 0.1.0
-generated: "2025-08-26T14:52:08.06404+07:00"
